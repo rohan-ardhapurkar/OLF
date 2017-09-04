@@ -132,7 +132,7 @@
 			   <div class="col-md-6 login-right">
 			  	<h3>REGISTERED CUSTOMERS</h3>
 				<p>If you have an account with us, please log in.</p>
-				<form>
+				<form >
 				  <div>
 					<span>Email Address<label>*</label></span>
 					<input type="text"> 
