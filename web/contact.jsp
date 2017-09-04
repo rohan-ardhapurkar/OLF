@@ -60,6 +60,7 @@
                 <div class="about_box">
                     <ul class="login">
                         <li class="login_text"><a href="login.jsp">Login</a></li>
+                        <li  ><a href="admin.jsp"><center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Admin</center></a></li>
                         <li class="wish"><a href="checkout.jsp">Wish List</a></li>
                         <div class='clearfix'></div>
                     </ul>

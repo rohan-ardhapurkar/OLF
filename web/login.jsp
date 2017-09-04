@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Luxury Furnish an E-Commerce online Shopping Category Flat Bootstarp responsive Website Template| Login :: w3layouts</title>
+<title>OLF</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="" />
@@ -243,7 +243,7 @@
 	<div class="footer_bottom">
 		<div class="container">
 			<div class="copy">
-			   <p>Copyright &copy; 2015 Luxury Furnish. All Rights Reserved . Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+			   <p>Copyright &copy; 2017 Datta Furniture. All Rights Reserved . Design by <a href="http://creazionesoftwares.com/" target="_blank">Creazione Software</a> </p>
 			</div>
 		</div>
 	</div>
