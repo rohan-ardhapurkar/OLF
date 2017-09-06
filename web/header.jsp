@@ -66,7 +66,8 @@
 		 <div class="about_box">
 			<ul class="login">
 				<li class="login_text"><a href="login.jsp">Login</a></li>
-				<li class="wish"><a href="checkout.jsp">Wish List</a></li>
+                                <li class="login_text"><a href="admin.jsp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Admin</a></li>
+                                <li class="wish"><a href="checkout.jsp">Wish List</a></li>
 				<div class='clearfix'></div>
 		    </ul>
 		    <div class="cart_bg">

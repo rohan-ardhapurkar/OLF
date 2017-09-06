@@ -118,6 +118,9 @@ ul.login li a{
 ul.login li.login_text{
 	float:left;
 }
+ul.login li.admin_login{
+    display: inline-block;
+}
 ul.login li.wish{
 	float:right;
 }
