@@ -479,7 +479,7 @@ h3.menu_head{
 	color: #fff;
 	text-transform: capitalize;
 	font-size: 0.85em;
-	margin: 0;
+	margin: left;
 	 font-family: 'Raleway', sans-serif;
 }
 ul.nav{
