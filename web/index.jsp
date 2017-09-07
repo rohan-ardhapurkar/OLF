@@ -25,49 +25,11 @@
 			   	    <div class="side_banner">
 					   <div class="banner_img"><img src="images/pic9.jpg" class="img-responsive" alt=""/></div>
 					   <div class="banner_holder">
-						  <h3>Now <br> is <br> Open!</h3>
+						 
 					   </div>
 				    </div>
-				    <div class="tags">
-				    	<h4 class="tag_head">Tags Widget</h4>
-				         <ul class="tags_links">
-							<li><a href="#">Office</a></li>
-							<li><a href="#">Chairs</a></li>
-							<li><a href="#">Wood</a></li>
-							<li><a href="#">Metal</a></li>
-							<li><a href="#">Sizes</a></li>
-							<li><a href="#">Women</a></li>
-							<li><a href="#">Wardrobes</a></li>
-							<li><a href="#">Latest</a></li>
-							<li><a href="#">Kitchen</a></li>
-							<li><a href="#">Tables</a></li>
-							<li><a href="#">Modern</a></li>
-							<li><a href="#">Colors</a></li>
-							<li><a href="#">Shelves</a></li>
-							<li><a href="#">Stools</a></li>
-							<li><a href="#">Pouffes</a></li>
-					        <li><a href="#">Women</a></li>
-							<li><a href="#">Bedroom</a></li>
-						</ul>
-						<a href="#" class="link1">View all tags</a>
-				    </div>
-				     <div class="tags">
-				      	<h4 class="tag_head">Articles Experts</h4>
-				      	 <ul class="article_links">
-                                                    	<li><a href="#">Eleifend option congue nihil</a></li>
-							<li><a href="#">Investigationes demonst</a></li>
-							<li><a href="#">Qui sequitur mutationem</a></li>
-							<li><a href="#">videntur parum clar sollemnes</a></li>
-							<li><a href="#">ullamcorper suscipit lobortis</a></li>
-							<li><a href="#">commodo consequat. Duis autem</a></li>
-							<li><a href="#">Investigationes demonst</a></li>
-							<li><a href="#">ullamcorper suscipit lobortis</a></li>
-							<li><a href="#">Qui sequitur mutationem</a></li>
-							<li><a href="#">videntur parum clar sollemnes</a></li>
-							<li><a href="#">ullamcorper suscipit lobortis</a></li>
-						  </ul>
-						 <a href="#" class="link1">View all</a>
-				      </div>
+				    
+				    
 				</div>
 			   <div class="col-md-9">
 				<h3 class="m_1">New Products</h3>
@@ -80,9 +42,9 @@
 								<a href="" class="button item_add item_1"> </a>	
 								 <div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Antique Clock</p>
 								   </div>
-								   <span class="amount item_price">$2300.00</span>
+								   <span class="amount item_price">Rs. 23000.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							  </div>
@@ -97,9 +59,9 @@
 								<a href="" class="button item_add item_1"> </a>		
 								<div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Sofa </p>
 								   </div>
-								   <span class="amount item_price">$1500.00</span>
+								   <span class="amount item_price">Rs. 15000.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							</div>
@@ -114,9 +76,9 @@
 								<a href="" class="button item_add item_1"> </a>	
 								<div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Antique Chair</p>
 								   </div>
-								   <span class="amount item_price">$2000.00</span>
+								   <span class="amount item_price">Rs. 20000.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							  </div>
@@ -134,9 +96,9 @@
 								<a href="" class="button item_add item_1"> </a>	
 								<div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Standard Cupboard </p>
 								   </div>
-								   <span class="amount item_price">$1700.00</span>
+								   <span class="amount item_price">Rs. 17000.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							  </div>
@@ -151,9 +113,9 @@
 								<a href="" class="button item_add item_1"> </a>	
 								<div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Home Relax Chair </p>
 								   </div>
-								   <span class="amount item_price">$800.00</span>
+								   <span class="amount item_price">Rs. 8000.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							  </div>
@@ -168,9 +130,9 @@
 								<a href="" class="button item_add item_1"> </a>	
 								<div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Leather Sofa Chair</p>
 								   </div>
-								   <span class="amount item_price">$199.00</span>
+								   <span class="amount item_price">Rs. 19990.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							  </div>
@@ -189,9 +151,9 @@
 								<a href="" class="button item_add item_1"> </a>		
 							    <div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Double Bed</p>
 								   </div>
-								   <span class="amount item_price">$4500.00</span>
+								   <span class="amount item_price">Rs. 45000.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							  </div>
@@ -206,9 +168,9 @@
 								<a href="" class="button item_add item_1"> </a>		
 							    <div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Queens Bed</p>
 								   </div>
-								   <span class="amount item_price">$1050.00</span>
+								   <span class="amount item_price">Rs. 105000.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							  </div>
@@ -223,9 +185,9 @@
 								<a href="" class="button item_add item_1"> </a>	
 								 <div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Leather Recliner</p>
 								   </div>
-								   <span class="amount item_price">$2000.00</span>
+								   <span class="amount item_price">Rs. 20000.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							  </div>
@@ -244,9 +206,9 @@
 								<a href="" class="button item_add item_1"> </a>		
 								<div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Foam Chair</p>
 								   </div>
-								   <span class="amount item_price">$99.00</span>
+								   <span class="amount item_price">Rs. 9999.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							  </div>
@@ -261,9 +223,9 @@
 								<a href="" class="button item_add item_1"> </a>	
 								<div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Oldies Chair</p>
 								   </div>
-								   <span class="amount item_price">$60.00</span>
+								   <span class="amount item_price">Rs. 6000.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							  </div>
@@ -278,9 +240,9 @@
 								<a href="" class="button item_add item_1"> </a>	
 								<div class="product_container">
 								   <div class="cart-left">
-									 <p class="title">Lorem Ipsum 2015</p>
+									 <p class="title">Kings Bed</p>
 								   </div>
-								   <span class="amount item_price">$900.00</span>
+								   <span class="amount item_price">Rs. 90000.00</span>
 								   <div class="clearfix"></div>
 							     </div>		
 							  </div>

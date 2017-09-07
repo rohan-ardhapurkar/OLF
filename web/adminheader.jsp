@@ -65,29 +65,9 @@
 		 </div>  
 		 <div class="about_box">
 			<ul class="login">
-				<li class="login_text"><a href="login.jsp">Login</a></li>
-                                <li class="login_text"><a href="adminlogin.jsp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Admin</a></li>
-                                <li class="wish"><a href="checkout.jsp">Wish List</a></li>
-				<div class='clearfix'></div>
+                            <li class="login_text"><a href="adminlogin.jsp.">Logout</a></li>
+                               <div class='clearfix'></div>
 		    </ul>
-		    <div class="cart_bg">
-	   		 	  <ul class="cart">
-	   		 		 <a href="checkout.jsp">
-					    <h4><i class="cart_icon"> </i><p>Cart: </p><div class="clearfix"> </div></h4>
-					 </a>
-				     <h5 class="empty"><a href="javascript:;" class="simpleCart_empty">Empty Cart</a></h5>
-				     <div class="clearfix"> </div>
-                  </ul>
-	   		 	</div>
-			 <ul class="quick_access">
-				<li class="view_cart"><a href="checkout.jsp">View Cart</a></li>
-				<li class="check"><a href="checkout.jsp">Checkout</a></li>
-				<div class='clearfix'></div>
-		     </ul>
-			<div class="search">
-			   <input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
-			   <input type="submit" value="">
-			</div>
-		  </div>
+		  	</div>
 		</div>
     </div>

@@ -18,7 +18,7 @@
 				 <div class="close1"> </div>
 				 <div class="cart-sec simpleCart_shelfItem">
 						<div class="cart-item cyc">
-							 <img src="images/pic1.jpg" class="img-responsive" alt="">
+							 <img src="#" class="img-responsive" alt="">
 						</div>
 					 
 					   </div>
@@ -38,7 +38,7 @@
 				 <div class="close2"> </div>
 				  <div class="cart-sec simpleCart_shelfItem">
 						<div class="cart-item cyc">
-							 <img src="images/pic2.jpg" class="img-responsive" alt="">
+							 <img src="#" class="img-responsive" alt="">
 						</div>
 					   </div>
 					   <div class="clearfix"></div>
